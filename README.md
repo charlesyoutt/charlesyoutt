@@ -1,6 +1,6 @@
 # Charlie Youtt
 
-I’m a Data Science & Finance student who enjoys building models and systems that reflect how decisions actually get made, especially when there are trade-offs and real constraints involved.
+I’m a Data Science & Finance student who’s passionate about building models and systems that reflect real decision-making, especially when there are real trade-offs, constraints, and incomplete information.
 
 ### Sailing Race Performance Prediction
 End-to-end machine learning pipeline using real regatta data to predict sailing race outcomes with a Random Forest model.  
